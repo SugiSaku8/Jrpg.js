@@ -1,6 +1,6 @@
 {
   "name": "jrpg.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "2D games (RPGs, etc...) in JavaScript in the browser A library for creating",
   "main": "index.js",
   "scripts": {
